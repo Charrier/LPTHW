@@ -1,4 +1,3 @@
-
 #Defining the function :
 Did you start your function definition with def?
 Does your function name have only characters and _ (underscore) characters?
